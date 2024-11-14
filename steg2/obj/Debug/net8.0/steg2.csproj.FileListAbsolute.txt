@@ -1,0 +1,14 @@
+c:\Users\Jasmine.lindberg1\Documents\Prog1\steg2\steg2\bin\Debug\net8.0\steg2.exe
+c:\Users\Jasmine.lindberg1\Documents\Prog1\steg2\steg2\bin\Debug\net8.0\steg2.deps.json
+c:\Users\Jasmine.lindberg1\Documents\Prog1\steg2\steg2\bin\Debug\net8.0\steg2.runtimeconfig.json
+c:\Users\Jasmine.lindberg1\Documents\Prog1\steg2\steg2\bin\Debug\net8.0\steg2.dll
+c:\Users\Jasmine.lindberg1\Documents\Prog1\steg2\steg2\bin\Debug\net8.0\steg2.pdb
+c:\Users\Jasmine.lindberg1\Documents\Prog1\steg2\steg2\obj\Debug\net8.0\steg2.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Jasmine.lindberg1\Documents\Prog1\steg2\steg2\obj\Debug\net8.0\steg2.AssemblyInfoInputs.cache
+c:\Users\Jasmine.lindberg1\Documents\Prog1\steg2\steg2\obj\Debug\net8.0\steg2.AssemblyInfo.cs
+c:\Users\Jasmine.lindberg1\Documents\Prog1\steg2\steg2\obj\Debug\net8.0\steg2.csproj.CoreCompileInputs.cache
+c:\Users\Jasmine.lindberg1\Documents\Prog1\steg2\steg2\obj\Debug\net8.0\steg2.dll
+c:\Users\Jasmine.lindberg1\Documents\Prog1\steg2\steg2\obj\Debug\net8.0\refint\steg2.dll
+c:\Users\Jasmine.lindberg1\Documents\Prog1\steg2\steg2\obj\Debug\net8.0\steg2.pdb
+c:\Users\Jasmine.lindberg1\Documents\Prog1\steg2\steg2\obj\Debug\net8.0\steg2.genruntimeconfig.cache
+c:\Users\Jasmine.lindberg1\Documents\Prog1\steg2\steg2\obj\Debug\net8.0\ref\steg2.dll
